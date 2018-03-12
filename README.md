@@ -1,6 +1,6 @@
 # Hebrew Mavo localisation
 
-![mavo hebrew logo](https://github.com/seffyfisher/mavo-locale-he/raw/master/hebrewMavo.svg)
+![mavo hebrew logo](https://github.com/seffyfisher/mavo-locale-he/blob/master/hebrewMavo.png)
 
 
 Mavo UI translation in Hebrew
