@@ -8,4 +8,7 @@ To use, simply include the plugin and then use lang="he" on your Mavo root, or t
 
 For more info , look at https://mavo.io/docs/ui/#customizing-text--localization
 
-some css fixes for rtl:
+p.s.
+the word "MAVO" in hebrew actually means : "introduction" which makes prefect sense!
+
+--some css fixes for rtl--
