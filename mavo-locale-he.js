@@ -13,7 +13,7 @@ Mavo.Locale.register("he", {
 	"logged-in-as": "מחובר/ת ל {id} כ ",
 	"login-to": "מחובר/ת ל {id}",
 	"error-uploading": "התרחשה שגיאה במהלך טעינה הקובץ",
-	"cannot-load-uploaded-file": "טעינת הקובץ נכשלה",
+	"cannot-load-uploaded-file": "העלאת הקובץ נכשלה",
 	"filename": "שם הקובץ ?",
 	"problem-saving": "שמירת המידע נכשלה",
 	"problem-loading": "טעינת המידע נכשלה",
